@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmetcanak)](https://github.com/mehmetcanak/mehmetcanak)
+[![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmetcanak&show_icons=true&theme=react)](https://github.com/mehmetcanak/mehmetcanak)
+
 
 [![Mehmet's GitHub stats](https://github-profile-trophy.vercel.app/?username=mehmetcanak&theme=onedark)](https://github.com/mehmetcanak/mehmetcanak)
 
