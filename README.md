@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 [![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmetcanak)](https://github.com/mehmetcanak/mehmetcanak)
 
-[![Mehmet's GitHub stats](https://github-profile-trophy.vercel.app/?username=mehmetcanak&no-bg=true)](https://github.com/mehmetcanak/mehmetcanak)
+[![Mehmet's GitHub stats](https://github-profile-trophy.vercel.app/?username=mehmetcanak&theme=onedark)](https://github.com/mehmetcanak/mehmetcanak)
 
