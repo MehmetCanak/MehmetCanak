@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 https://github-profile-trophy.vercel.app/?username=mehmetcanak&no-bg=true
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmetcanak)](https://github.com/mehmetcanak/mehmetcanak)
