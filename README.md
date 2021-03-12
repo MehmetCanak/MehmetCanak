@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 [![Mehmet's GitHub stats](https://github-profile-trophy.vercel.app/?username=mehmetcanak&theme=onedark&hide_rank=true)](https://github.com/mehmetcanak/mehmetcanak)
 
-[![Mehmet's github activity graph](https://activity-graph.herokuapp.com/graph?username=mehmetcanak36&theme=github)
+[![Mehmet's github activity graph](https://activity-graph.herokuapp.com/graph?username=mehmetcanak&theme=github)]
 
