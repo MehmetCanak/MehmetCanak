@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetcanak&langs_count=12&theme=react)](https://github.com/mehmetcanak)
 
 
-[![Mehmet's GitHub stats](https://github-profile-trophy.vercel.app/?username=mehmetcanak&theme=onedark&hide_rank=true)](https://github.com/mehmetcanak/mehmetcanak)
+<!--[![Mehmet's GitHub stats](https://github-profile-trophy.vercel.app/?username=mehmetcanak&theme=onedark&hide_rank=true)](https://github.com/mehmetcanak/mehmetcanak)
 
-[![Mehmet's github activity graph](https://activity-graph.herokuapp.com/graph?username=mehmetcanak&theme=github)]
+[![Mehmet's github activity graph](https://activity-graph.herokuapp.com/graph?username=mehmetcanak&theme=github)] -->
 
