@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmetcanak&show_icons=true&theme=react&layout=default&card_width=100)](https://github.com/mehmetcanak)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetcanak&layout=compact&theme=react&card_width=100)](https://github.com/mehmetcanak/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetcanak&layout=compact&theme=react&card_width=50)](https://github.com/mehmetcanak/)
 
 
 
