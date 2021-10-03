@@ -15,10 +15,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmetcanak&show_icons=true&theme=react&layout=default&card_width=10)](https://github.com/mehmetcanak)
 
+
+<div 
+<a href="https://github.com/mehmetcanak">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmetcanak&show_icons=true&theme=react&layout=default&include_all_commits=true" style="max-width: 100%;" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetcanak&layout=compact&theme=react&hide_rank=true&langs_count=8" style="max-width: 100%;" />
+</a>
+
+<!--[![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmetcanak&show_icons=true&theme=react&layout=default&card_width=10)](https://github.com/mehmetcanak)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetcanak&layout=compact&theme=react&hide_rank=true)](https://github.com/mehmetcanak/)
+
+-->
+
+
+
+<!--
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>-->
 
 
 
