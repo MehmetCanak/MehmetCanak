@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <img src="https://hackster.imgix.net/uploads/attachments/1097058/Dino_non-birthday_version-1.gif?auto=compress&gifq=35&w=680&h=510&fit=max" width="500" height="150" />
 
-<img src="https://img.icons8.com/color/48/000000/kali-linux.png" />
+<img src="https://img.icons8.com/color/96/000000/kali-linux.png"/>
 
 <!--[![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmetcanak&show_icons=true&theme=react&layout=default&card_width=10)](https://github.com/mehmetcanak)
 
