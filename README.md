@@ -23,6 +23,8 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetcanak&layout=compact&theme=react&hide_rank=true&langs_count=8" style="max-width: 100%;" />
 </a>
 
+
+
 <!--[![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmetcanak&show_icons=true&theme=react&layout=default&card_width=10)](https://github.com/mehmetcanak)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetcanak&layout=compact&theme=react&hide_rank=true)](https://github.com/mehmetcanak/)
@@ -48,4 +50,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetcanak&langs_count=12&theme=react)](https://github.com/mehmetcanak) -->
 
-
+<p align=”center”>
+<img src=”https://hackster.imgix.net/uploads/attachments/1097058/Dino_non-birthday_version-1.gif?auto=compress&gifq=35&w=680&h=510&fit=max" width=”500" height=”150" />
+</p>
