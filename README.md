@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetcanak&langs_count=12&theme=react)](https://github.com/mehmetcanak) -->
 
-
+<h3 align=”center”> Ssorry i’m busy saving the dinosaur generation :skull_and_crossbones: keep going please :point_down: </h3>
+<p align=”center”>
 <img src=”https://hackster.imgix.net/uploads/attachments/1097058/Dino_non-birthday_version-1.gif?auto=compress&gifq=35&w=680&h=510&fit=max" width=”500" height=”150" />
-
+</p>
