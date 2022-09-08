@@ -1,4 +1,4 @@
-### Hi there 👋   [View My Portfolio](https://mehmetcanak.github.io/)
+### Hi there 👋  <!-- [View My Portfolio](https://mehmetcanak.github.io/) -->
 
 <!--
 **MehmetCanak/MehmetCanak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
