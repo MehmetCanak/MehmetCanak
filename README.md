@@ -1,11 +1,4 @@
 
-
-<a href="https://github.com/mehmetcanak">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=mehmetcanak&show_icons=true&theme=react&layout=default&include_all_commits=true" style="max-width: 100%;" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetcanak&layout=compact&theme=react&hide_rank=true&langs_count=8" style="max-width: 100%;" />
-</a>
-
-
 <img src="https://hackster.imgix.net/uploads/attachments/1097058/Dino_non-birthday_version-1.gif?auto=compress&gifq=35&w=680&h=510&fit=max" width="500" height="150" />
 
 
